@@ -1,15 +1,72 @@
 # Contextual Inquiry and Analysis
 ## Device/ App/ Website Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut commodo molestie libero non dapibus. Praesent malesuada erat dolor, eget varius quam tempor sit amet. Etiam justo nibh, dignissim id lorem vel, posuere aliquet risus. Donec iaculis dui sapien, ac suscipit nunc suscipit non. Vivamus malesuada laoreet mauris eu commodo. Ut vitae nisi vel turpis aliquet ultrices. Cras sollicitudin gravida tortor, non semper dui congue at. Donec sem nisl, tempor eu hendrerit id, blandit id quam. Curabitur et diam quam. Suspendisse vel felis nec velit vulputate eleifend nec eu nisi. Morbi rutrum ex non ante fringilla, in rutrum felis aliquam. In cursus sem et dictum tincidunt. Curabitur id nisi nec nibh convallis vehicula ullamcorper non ex. In interdum lorem a est imperdiet porta.
+https://mail2.its.ac.id/ is a website for its student to login for their its mail and https://webmail.its.ac.id/src/login.php?bag=lupa is a website for its student if want to reset mail its password.
+
 ## Instruction Script
-Nam a eleifend tortor. In eget facilisis est. Suspendisse tincidunt mi lorem, non volutpat libero scelerisque id. Curabitur dui dui, dignissim ac lectus sit amet, sodales gravida ex. Donec mattis, enim vitae sollicitudin rhoncus, diam elit consequat massa, et rutrum magna augue vitae turpis. In eget arcu laoreet, dapibus arcu eget, mattis massa. Aenean fringilla eu dui ut vestibulum. Aenean consequat consectetur massa, eget ornare sapien dignissim vel. Nunc vestibulum tellus ut dolor euismod commodo. Vivamus fringilla urna eget elit vestibulum mattis. Sed nec mattis nisl. Sed sit amet sapien at libero tincidunt ullamcorper. Sed tempus non quam eu rutrum. Nunc fringilla lorem non nibh pulvinar fermentum.
+1. Open mail2.its.ac.id
+2. Try to login your mail its
 ## User Description
-Aliquam id lacus leo. Sed elementum lectus non lacus ultricies vehicula. Pellentesque et sollicitudin risus, a imperdiet metus. Vivamus augue ligula, suscipit ac cursus quis, auctor eu nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Praesent rhoncus faucibus mauris. Curabitur bibendum lorem eu neque efficitur, quis luctus mauris aliquet. Praesent posuere, urna eget euismod dictum, elit est vehicula ex, volutpat ultrices augue mi in mauris. Nulla lobortis dolor quis ullamcorper volutpat. Aenean convallis eros vitae justo elementum condimentum. Aenean eros enim, lobortis non imperdiet quis, pulvinar volutpat quam.
+- Biomedical Engineering student
+- 21 years old
+- Male
+- Familiar with email and usually use email for submit assignment
 ## Transcript
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
+
+```
+Me   : Apakah kamu pernah menggunakan email?
+User : Ya, pernah, bahkan sering
+Me   : Apakah kamu punya email its?
+User : Kurasa, aku pernah membuatnya di semester 1 atau 2
+Me   : Jadi, harusnya kamu tau apa itu mail2.its.ac.id
+User : Iya, aku tau
+Me   : Coba login ke akun email its mu dong di mail2.its.ac.id
+User : Hmm, okay sebentar
+User membuka web tersebut, lalu user mencoba login pada web mail2.its.ac.id, lalu dia tampak kebingungan
+Me   : Kenapa?
+User : Aku lupa password email ku ini, aku mau coba mereset passwordku tapi ga ada tombol reset password disini
+Me   : Coba kamu cari dulu di web tersebut buat reset passwordnya
+User mencari tombol buat mereset password, dan dengan wajah bahagianya dia menemukan tombol buat mereset password dan redirect ke web https://webmail.its.ac.id/src/login.php?bag=lupa
+User : Akhirnya aku nemu tombol e
+Me   : Nah, coba di reset passwordnya, kalau udah bisa, coba login lagi nanti
+User : Iya ini lagi mencoba, ini cuma butuh email nya ternyata, cukup mudah
+User : Hmm, ini udah aku masukkan alamat emailku, tapi disini tulisannya "tidak ada pertanyaan yang telah di set"
+Me   : Kamu emang belum pernah set pertanyaan?
+User : Belum pernah, bahkan buka pun mungkin belum pernah, aku cuma pernah buat emailnya aja
+Me   : Waduh, coba cari fitur serupa yang lain
+User : Iya, coba ku cari cari dulu, mungkin ada fitur reset password lain
+User mencari fitur serupa yang lain
+User : Mungkin ini fitur yang fungsinya hampir sama, bahkan yang ini bisa buat kalau lupa email sama password login
+Me   : Mungkin bisa kamu coba
+User : Oke
+User : Eh, ini kok NRP ku gak bisa masuk ya
+Me   : Bentar, ku coba lihat
+Me   : Sepertinya ini bisanya pake format NRP yang lama deh, soalnya ini cuma bisa buat 10 digit aja, setauku format nrp lama itu 10 digit
+User : Oalah, makanya kok gabisa pakai format nrp yang baru
+Me   : Coba kamu rubah nrp mu ke format nrp baru deh
+User : Okay
+Lalu user mencoba merubah ke format lama, tetapi dia keliatan kebingungan untuk merubahnya
+User : Bagaimana caranya merubah format nrp baru ke format nrp lama?
+Me   : Aku juga kurang tau, tapi yang kutau sih cuma dulu fakultas cuma 1 digit, bukan 2 digit kayak sekarang, lalu 1 digit kode jurusan, sama 2 digit angkatan dan diikuti sama 3 digit kode d3, d4, ataupun s1, dan nrp mu yang 3 digit nrp
+User : Oalah, coba aku rubah ke format nrp lama dulu deh
+Lalu user mencoba lagi untuk merubah ke format nrp lama. Tapi dia tampak kebingungan lagi
+Me   : Kamu kenapa? Kok keliatannya kayak lagi kebingungan
+User : Hmm, ini aku sudah coba merubah ke format nrp lama tapi ini kenapa tetap gabisa ya?
+Me   : Waduh, gatau juga sih aku. Ya sudah lah kalau gabisa, mungkin ada kesalahan juga.
+User : Iya udah deh.
+Me   : Menurutmu dari 2 web tadi, bagaimana pendapatmu buat fitur fitur yang ada disitu?
+User : Sebenarnya, awalnya aku merasa biasa saja, tapi ketika aku menyadari aku gabisa login karena lupa password, terus coba reset password emailku. Di web pertama tidak tersedia tombol buat reset password tersebut. Lalu pas tau ternyata ada fitur buat lupa password, kekecewaan ku hilang, dan berharap bisa  reset password emailku. Tapi waktu aku coba reset password emailku, terlalu banyak hal yang malah menjadi semakin sulit buat reset password, seperti aku harus set pertanyaan lupa password ku di email, dan juga format nrp masih format nrp lama, dan walau sudah kucoba untuk rubah ke format lama, tapi malah tetep ga bisa, jadi sedikit kecewa aja sih.
+Me   : Oalah, oke-oke, makasih ya udah mau meluangkan waktumu buat ini
+User : Oke, sama sama, ini udah selesai?
+Me   : Iya udah selesai kok
+User : Oke
+```
+
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+<img src="https://github.com/hci-a-if-its-2019/assignment-1-rennat10/blob/master/mail2its2.png">
+
+<img src="https://github.com/hci-a-if-its-2019/assignment-1-rennat10/blob/master/webmail3.png">
+
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
