@@ -68,8 +68,16 @@ User : Oke
 <img src="https://github.com/hci-a-if-its-2019/assignment-1-rennat10/blob/master/webmail3.png">
 
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+<img src="https://github.com/hci-a-if-its-2019/assignment-1-rennat10/blob/master/flowmodel.png">
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+<img src="https://github.com/hci-a-if-its-2019/assignment-1-rennat10/blob/master/Culturalmodel.png">
 ## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+<h2>Do</h2>
+<ul>
+  <li>Make a forget password button for mail2.its.ac.id</li>
+  <li>Change from question we've made to verification that we can do (like verification in integra) for webmail.its.ac.id/src/login.php?bag=lupa</li>
+</ul>
+<h2>Don't</h2>
+<ul>
+  <li>Don't just use old format of nrp</li>  
+</ul>
