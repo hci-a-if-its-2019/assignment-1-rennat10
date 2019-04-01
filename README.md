@@ -81,3 +81,12 @@ User : Oke
 <ul>
   <li>Don't just use old format of nrp</li>  
 </ul>
+
+# Remarks
+> * Thanks for completing all the parts in this assignment. I have some comments that you may consider to make your assignment report better. 
+> * You should use red texts with red lightning-bolt on all of your models to annotate the breakdowns.
+> * You should use line-numbers or time-codes on the `Transcript` and use them to annotate the breakdowns on the models too. Those will help readers to easily track back the evidence for every breakdown on the models.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 2            | 5                | 0               | 81,5               | 81,5       | 81,5  |
